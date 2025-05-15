@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc -o out $1
-./out
+gcc -o crun $1
+./crun
