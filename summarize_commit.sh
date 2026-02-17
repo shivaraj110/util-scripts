@@ -20,4 +20,5 @@ Summarize:
 Keep it concise and technical.")
 echo ""
 echo "---- AI Explanation ----"
+echo "$response"
 echo "$response" >>~/dairy.txt
